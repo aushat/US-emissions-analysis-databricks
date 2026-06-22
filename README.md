@@ -21,6 +21,7 @@ Exploring U.S. greenhouse gas emissions using EPA 2023 data — built with SQL q
 ## 📂 SQL Queries
 | File | Description |
 |------|-------------|
+| `Emissions_Data_2023.csv` | Raw Data file from EPA 2023 data|
 | `Total Emissions.sql` | Top 10 states by total CO2e emissions |
 | `County Emissions.sql` | Highest emitting counties |
 | `Emissions per person.sql` | Emissions per capita by state |
