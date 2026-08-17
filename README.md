@@ -29,4 +29,4 @@ Exploring U.S. greenhouse gas emissions using EPA 2023 data — built with SQL q
 | `% of emission of 10 states from country.sql` | Each state's share of total US emissions |
 
 ## 📸 Dashboard Preview
-> 📄 [View Full Dashboard PDF](Emissions_Dashboard.pdf)
+> 📄 [View Full Dashboard PDF](EmissionsDashboard.pdf)
